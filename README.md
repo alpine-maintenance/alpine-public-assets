@@ -18,3 +18,10 @@ Alpine logo on Hub's colours, 5120x2880 (iMac 5K):
 | `alpine-cream-5120x2880.png` | Hub light background `#f1eadc`, green script |
 | `alpine-charcoal-5120x2880.png` | Hub dark cards/sidebar `#1f1f1f`, cream script |
 | `alpine-black-5120x2880.png` | Hub dark background `#0f0f0f`, cream script |
+
+## screensaver/
+
+`Alpine-<version>.saver.zip`: the Alpine screen saver (logo, the iMac's location from its computer
+name, the time; cream in light mode, charcoal in dark). Built from `screensaver/` in `alpine-it`
+with `build.sh`; ad-hoc signed, not notarized. Bundles IBM Plex Sans (SIL Open Font License,
+licence file inside the bundle).
